@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.table {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+    td {
+        padding: 10px 20px;
+        text-align: center;
+        border: 1px solid black;
+    }
+
+}
